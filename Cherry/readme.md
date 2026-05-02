@@ -220,5 +220,3 @@ This module ensures **secure and private verification of tags** using:
 * MAC signatures
 * Zero-Knowledge Proofs
 * On-chain verification
-
-````
