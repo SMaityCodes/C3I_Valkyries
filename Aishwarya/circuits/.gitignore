@@ -1,20 +1,18 @@
-# Node
 node_modules/
-
-# Circom / SnarkJS build artifacts
 build/
 circomlib/
 
-# Trusted setup / proving keys
 *.ptau
 *.zkey
 
-# Witness + proofs
 witness.wtns
 proof.json
 public.json
 verification_key.json
 
-# Misc
-*.log
-.DS_Store
+tagVerifier.r1cs
+tagVerifier.sym
+
+package-lock.json
+
+.gitignore.save
